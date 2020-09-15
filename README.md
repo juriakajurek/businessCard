@@ -1,2 +1,9 @@
-Wizytówka stworzona jako projekt na CodersCamp.
-Testowana w przeglądarce Firefox 68.0.1.
+## Business Card
+Project developed during 5th edition of CodersCamp.
+
+First website created on my own. 
+
+Created using only HTLM/CSS.
+It has horizontal scrolling using only CSS of the more interesting features.
+
+Tested on Firefox 68.0.1.
